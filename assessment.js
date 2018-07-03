@@ -1,4 +1,4 @@
-//変更
+//変更2
 (function () {
     'use strict';
     const userNameInput = document.getElementById('user-name');
